@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid-my-img.jpg",
+        "imagesrc":"thyroid.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -18,8 +18,8 @@
         "treatment": "Medication like levothyroxine may be prescribed by a doctor."
       },
       {
-        "name": "Diabtese",
-        "imagesrc":"diabeties-my-img.jpg",
+        "name": "Diabetes",
+        "imagesrc":"diabeties.jpg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure-my-img.jpg",
+        "imagesrc":"blood_pressure.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
